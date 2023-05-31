@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 32 32">
+  <path id="Sliders" d="M12 18H3c-2 0-2-3 0-3h9v3Zm17 0H18v-3h11c2 0 2 3 0 3Zm-10 6H3c-2 0-2-3 0-3h16v3Zm10 0h-4v-3h4c2 0 2 3 0 3ZM4 27v3H3c-2 0-2-3 0-3h1Zm6 0h19c2 0 2 3 0 3H10v-3Zm5-14c2 0 2 1 2 3v1c0 2 0 3-2 3s-2-1-2-3v-1c0-2 0-3 2-3Zm7 6c2 0 2 1 2 3v1c0 2 0 3-2 3s-2-1-2-3v-1c0-2 0-3 2-3ZM7 25c2 0 2 1 2 3v1c0 2 0 3-2 3s-2-1-2-3v-1c0-2 0-3 2-3Z"/>
+  <g id="Little-Gear">
+    <path id="Little-Ring" d="M17.5 2a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5Zm0 1.5a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z"/>
+    <path id="Little-Gears" d="m16 4-1.5-1.5 1-1L17 3V1h1v2l1.5-1.5 1 1L19 4h2v1h-2l1.5 1.5-1 1L18 6v2h-1V6l-1.5 1.5-1-1L16 5h-2V4h2Zm1.5-.5a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z"/>
+  </g>
+  <g id="Big-Gear">
+    <path id="Big-Ring" d="M7.5 2.5a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm0 2.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5Z"/>
+    <path id="Big-Gears" d="M3 9H1V6h2V5L2 4l2-2 1 1h1V1h3v2h1l1-1 2 2-1 1v1h2v3h-2v1l1 1-2 2-1-1H9v2H6v-2H5l-1 1-2-2 1-1V9Zm4.5-4a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5Z"/>
+  </g>
+  <g id="Medium-Gear">
+    <path id="Medium-Ring" d="M26 5a4 4 0 1 1 0 8 4 4 0 0 1 0-8Zm0 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z"/>
+    <path id="Medium-Gears" d="m24 8-2-2 1-1 2 2 .5-3h1l.5 3 2-2 1 1-2 2 3 .5v1l-3 .5 2 2-1 1-2-2-.5 3h-1l-.5-3-2 2-1-1 2-2-3-.5v-1l3-.5Zm2-1a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z"/>
+  </g>
+</svg>
