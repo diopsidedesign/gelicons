@@ -1,3 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4" clip-rule="evenodd" viewBox="0 0 190 186">
-  <path d="M89 184c-39-26-32-66-19-93 29-62-97-62-65 33 22 62 92 66 84 60zm77-149c19 0 46 98-7 132-83 54-104-84-43-83 61 0 43-49 50-49zM89 47c45 46 85-20 33-42C91-9 40 9 27 34c-4 7 26-23 61 13z"/>
+<svg
+   xmlns   = "http://www.w3.org/2000/svg"     
+   viewBox = "0 0 64 64" >
+   <circle id="Gel-Logo-Bg"
+           cx="32" cy="32" r="28"
+           fill-opacity="0"/>
+   <path
+      id = "Gel-Logo-Left" 
+      d  = "M25 32c-10.7 12.7-8.4 24.6-.7 27l4.2.8S28 61 25 61c-7 0-22.7-8.5-23-28v-2c1.5-32 36.6-15.1 23 1Z"/>
+   <path
+      id = "Gel-Logo-Top"
+      d  = "M35.6 25.9C31.2 13.5 24.3 9.8 18 9.8c-4 0-6.8 3.4-6.8 3.4S11 8 21 4a30 30 0 0 1 26 2c27.7 16-4.2 39.8-11.4 19.9Z"/>
+   <path
+      id = "Gel-Logo-Bottom"
+      d  = "M35.3 38.5c16.4 2.9 25.6-5 24-13a29 29 0 0 0-.9-2.8c1 .2 3.4 2.8 3.6 8.3.3 10.8-5.3 21-14 26.5-26.6 16.6-33.5-22.8-12.7-19Z"/>
 </svg>

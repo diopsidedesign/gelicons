@@ -1,3 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <path d="M26 28V6c0-4 2-6 6-6h26c4 0 6 2 6 6v52c0 4-2 6-6 6H6c-4 0-6-2-6-6V6c0-4 2-6 6-6h1c2 0 3 0 3 3v47c0 2 2 4 4 4h36c2 0 4-2 4-4V14c0-2-2-4-4-4h-8c-2 0-4 2-4 4v14h10L32 44 16 28h10Z"/>
 </svg>
