@@ -1,0 +1,13 @@
+{
+  "name": "gel_icon_indexer",
+  "version": "0.0.1",
+  "description": "Reads all the svgs from a folder and compiles their contents into a single index file that enables much easier lookup and use of inline SVGs in web apps",
+  "main": "_buildIndex.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "diopside",
+  "license": "MIT"
+}
