@@ -143,7 +143,7 @@ function isElemOrWindow(obj) {
 
 function makeEl(tagName, elDef = {}) {    
  
-   const el = svgTags.includes(tagName) ?
+   const el =  ['svg','circle','circ','text','path','g','rect','ellipse'].includes(tagName) ?
          document.createElementNS('http://www.w3.org/2000/svg', tagName) :
          document.createElement(tagName);
   

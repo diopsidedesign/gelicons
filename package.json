@@ -1,13 +1,30 @@
 {
-  "name": "gel_icon_indexer",
-  "version": "0.0.1",
-  "description": "Reads all the svgs from a folder and compiles their contents into a single index file that enables much easier lookup and use of inline SVGs in web apps",
+  "name": "gelicons",
+  "version": "0.1.1",
+  "description": "A tiny and free (as-in-beer) svg icon set + framework for web app UI's",
   "main": "_buildIndex.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diopsidedesign/gelicons.git"
+  },
+  "keywords": [
+    "icons",
+    "free",
+    "copyleft",
+    "public",
+    "domain",
+    "cc0",
+    "royalty-free",
+    "graphics",
+    "vector"
+  ],
   "author": "diopside",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diopsidedesign/gelicons/issues"
+  },
+  "homepage": "https://github.com/diopsidedesign/gelicons#readme"
 }
