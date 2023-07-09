@@ -31,10 +31,10 @@ const process = (prefix,svgs) => {
    return dict 
 } 
 
-const iconDict = await getSvgFileNames('../../assets/icons/').then( list => process('../../assets/icons/', list))
+const iconDict = await getSvgFileNames('./icons/').then( list => process('./icons/', list))
 
 fs.writeFileSync(
-   'gel_icon_index.js', 
+   'gelicons_index.js', 
    `export const iconIndex = `+ JSON.stringify(iconDict, null, 4),
    "utf8"
 )
