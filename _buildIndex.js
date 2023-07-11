@@ -1,7 +1,7 @@
  import fsp from "fs/promises";
  import fs  from "fs";
 
-// builds a 'gel_icon_index.js' from a directory of svgs, combining all the svg content
+// builds a 'gelicons_index.js' file from a directory of svgs, combining all the svg content
 // into a single, name-keyed dictionary file that is easily consumed by other APIs
 
 const rgx = {
@@ -47,7 +47,3 @@ fs.writeFileSync(
 
    
 
-
-
-
-//const svgString = await fsPromises.readFile(`./${iconName}`, "utf8");

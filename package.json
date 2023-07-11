@@ -1,7 +1,8 @@
 {
   "name": "gelicons",
-  "version": "0.1.1",
-  "description": "A tiny and free (as-in-beer) svg icon set + framework for web app UI's",
+  "type": "module",
+  "version": "0.1.2",
+  "description": "Here at Gelicons, our icons and buttons don't just change lives, they make dreams -> reality. Our tools, are the bridge to that new reality, and they are poised to usher in a new era - for the web, and for all of humanity. We know you're ready to transform your app, but are you ready to transform your dreams? Then please, join me in installing gelicons 0.1: the worlds newest, most revolutionary icon and button system, designed for, and by, transformative digital envisioneers just like yourself. Together we can lead the charge to a better world with the power of INLINE, SCALABLE, VECTOR, GRAPHICS!",
   "main": "_buildIndex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
